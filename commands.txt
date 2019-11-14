@@ -1,0 +1,6 @@
+https://api.telegram.org/bot414289423:AAGDHZNSCpJjWn24uFMPBECIW8LProf6OPo/getme
+
+https://api.telegram.org/bot414289423:AAGDHZNSCpJjWn24uFMPBECIW8LProf6OPo/getUpdates 371346958
+
+https://api.telegram.org/bot414289423:AAGDHZNSCpJjWn24uFMPBECIW8LProf6OPo/sendMessage?chat_id=316248502&text=Hi Elsass
+https://api.telegram.org/bot414289423:AAGDHZNSCpJjWn24uFMPBECIW8LProf6OPo/sendMessage?chat_id=-1001137274544&text=chat_id is -1001137274544
